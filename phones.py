@@ -4,3 +4,4 @@ class Phone:
     def _init_(self, brand, model, price)
     
     #method
+this is it
